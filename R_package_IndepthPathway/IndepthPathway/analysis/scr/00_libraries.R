@@ -1,0 +1,6 @@
+renv::install("devtools")
+renv::install("bioc::qvalue")
+renv::install("bioc::limma")
+renv::install("bioc::fgsea")
+renv::install("wangxlab/IndepthPathway")
+renv::install("tidyverse")
